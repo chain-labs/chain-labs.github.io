@@ -1,6 +1,6 @@
 [
     {
-        "id":1,
+        "id":0,
         "title": "Silicon Valley Avatars",
         "network": {
             "chainId": 1,
@@ -15,7 +15,7 @@
         "website_url": "https://simplrcollection.com"
     },
     {
-        "id":2,
+        "id":1,
         "title": "Abstract 3D",
         "network": {
             "chainId": 137,
@@ -30,7 +30,7 @@
         "website_url": "https://simplrcollection.com"
     },
     {
-        "id":3,
+        "id":2,
         "title": "Space Puppers",
         "network": {
             "chainId": 1,
@@ -45,7 +45,7 @@
         "website_url": "https://simplrcollection.com"
     },
     {
-        "id":"4",
+        "id":"3",
         "title": "Summer of Evil",
         "network": {
             "chainId": 1,
@@ -60,7 +60,7 @@
         "website_url": "https://simplrcollection.com"
     },
     {
-        "id":5,
+        "id":4,
         "title": "Playful Friction",
         "network": {
             "chainId": 137,
