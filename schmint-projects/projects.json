@@ -2,22 +2,64 @@
     {
         "id":"0",
         "title": "Silicon Valley Avatars",
+        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
+        "abi": [
+            {
+              "inputs": [
+                {
+                  "internalType": "address",
+                  "name": "_buyer",
+                  "type": "address"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "_quantity",
+                  "type": "uint256"
+                }
+              ],
+              "name": "buy",
+              "outputs": [],
+              "stateMutability": "payable",
+              "type": "function"
+            }
+        ],
         "network": {
-            "chainId": 1,
-            "name": "Ethereum"
+            "chainId": 5,
+            "name": "Goerli"
         },
         "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
-        "startTimestamp": 1665833304,
-        "supply":2000,
-        "price": 0,
-        "banner": "https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62607.jpg?w=2000&t=st=1663241588~exp=1663242188~hmac=5c15ed5b4182137e616dfd0cae55dbfadf375be1f5c1d8d48c8574a9d7a404d5",
-        "logo": "https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62607.jpg?w=2000&t=st=1663241588~exp=1663242188~hmac=5c15ed5b4182137e616dfd0cae55dbfadf375be1f5c1d8d48c8574a9d7a404d5",
-        "website_url": "https://simplrcollection.com",
-        "symbol":"SVA"
+        "startTimestamp": 1665073800,
+        "supply": 50,
+        "price": 0.005,
+        "banner": "https://simplr.mypinata.cloud/ipfs/Qmb5W3zHPy2iPJkvXbdppUb9hx5TUKknDurqypFWX8vB6W",
+        "logo": "https://simplr.mypinata.cloud/ipfs/QmZtVc9RUH9dWPfP6DTLhoXccbfKTMBeiHw2Z8X4hDT2jr",
+        "website_url": "https://silicon-valleys.com",
+        "symbol":"SIL"
     },
     {
         "id":"1",
         "title": "Abstract 3D",
+        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
+        "abi": [
+            {
+              "inputs": [
+                {
+                  "internalType": "address",
+                  "name": "_buyer",
+                  "type": "address"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "_quantity",
+                  "type": "uint256"
+                }
+              ],
+              "name": "buy",
+              "outputs": [],
+              "stateMutability": "payable",
+              "type": "function"
+            }
+        ],
         "network": {
             "chainId": 137,
             "name": "Polygon"
@@ -34,6 +76,27 @@
     {
         "id":"2",
         "title": "Space Puppers",
+        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
+        "abi": [
+            {
+              "inputs": [
+                {
+                  "internalType": "address",
+                  "name": "_buyer",
+                  "type": "address"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "_quantity",
+                  "type": "uint256"
+                }
+              ],
+              "name": "buy",
+              "outputs": [],
+              "stateMutability": "payable",
+              "type": "function"
+            }
+        ],
         "network": {
             "chainId": 1,
             "name": "Ethereum"
@@ -50,6 +113,27 @@
     {
         "id":"3",
         "title": "Summer of Evil",
+        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
+        "abi": [
+            {
+              "inputs": [
+                {
+                  "internalType": "address",
+                  "name": "_buyer",
+                  "type": "address"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "_quantity",
+                  "type": "uint256"
+                }
+              ],
+              "name": "buy",
+              "outputs": [],
+              "stateMutability": "payable",
+              "type": "function"
+            }
+        ],
         "network": {
             "chainId": 1,
             "name": "Ethereum"
@@ -66,6 +150,27 @@
     {
         "id":"4",
         "title": "Playful Friction",
+        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
+        "abi": [
+            {
+              "inputs": [
+                {
+                  "internalType": "address",
+                  "name": "_buyer",
+                  "type": "address"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "_quantity",
+                  "type": "uint256"
+                }
+              ],
+              "name": "buy",
+              "outputs": [],
+              "stateMutability": "payable",
+              "type": "function"
+            }
+        ],
         "network": {
             "chainId": 137,
             "name": "Polygon"
