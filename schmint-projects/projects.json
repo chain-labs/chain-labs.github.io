@@ -34,7 +34,7 @@
         "banner": "https://simplr.mypinata.cloud/ipfs/Qmb5W3zHPy2iPJkvXbdppUb9hx5TUKknDurqypFWX8vB6W",
         "logo": "https://simplr.mypinata.cloud/ipfs/QmZtVc9RUH9dWPfP6DTLhoXccbfKTMBeiHw2Z8X4hDT2jr",
         "website_url": "https://silicon-valleys.com",
-        "symbol":"SIL",
+        "symbol": "SIL",
         "maxPurchase": 10,
     },
     {
@@ -72,7 +72,7 @@
         "banner": "https://images.unsplash.com/photo-1646995931586-076b80286a8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80",
         "logo": "https://images.unsplash.com/photo-1646995931586-076b80286a8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80",
         "website_url": "https://simplrcollection.com",
-        "symbol":"ABS",
+        "symbol": "ABS",
         "maxPurchase": 10,
     },
     {
@@ -110,7 +110,7 @@
         "banner": "https://pixabay.com/get/g700779b1abb9a5a6bc18ff2b3ecfcbd083968beca733ac1790b78ccbf639d6083f4f8c568638849b2903ecad14e9750f_1280.jpg",
         "logo": "https://pixabay.com/get/g700779b1abb9a5a6bc18ff2b3ecfcbd083968beca733ac1790b78ccbf639d6083f4f8c568638849b2903ecad14e9750f_1280.jpg",
         "website_url": "https://simplrcollection.com",
-        "symbol":"SPU",
+        "symbol": "SPU",
         "maxPurchase": 10,
     },
     {
@@ -148,7 +148,7 @@
         "banner": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
         "logo": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
         "website_url": "https://simplrcollection.com",
-        "symbol":"SOE",
+        "symbol": "SOE",
         "maxPurchase": 10,
     },
     {
@@ -186,7 +186,7 @@
         "banner": "https://pixabay.com/get/g999e674e50868d1e0d504eac67b2f5ff598ed95ab38a5c76ea668fb1a7fa8339dfa89f50598243e2c8b84ea5b53c44d8_1280.jpg",
         "logo": "https://pixabay.com/get/g999e674e50868d1e0d504eac67b2f5ff598ed95ab38a5c76ea668fb1a7fa8339dfa89f50598243e2c8b84ea5b53c44d8_1280.jpg",
         "website_url": "https://simplrcollection.com",
-        "symbol":"PFR",
+        "symbol": "PFR",
         "maxPurchase": 10,
     }
 ]
