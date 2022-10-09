@@ -241,7 +241,7 @@
     },
     {
         "id":"6",
-        "title": "Fantastic collection",
+        "title": "Fantastic city collection",
         "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
         "abi": [
             {
