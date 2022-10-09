@@ -209,8 +209,8 @@
             }
         ],
         "network": {
-            "chainId": 1,
-            "name": "Ethereum"
+            "chainId": 5,
+            "name": "Goerli"
         },
         "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
         "startTimestamp": 1665459646,
