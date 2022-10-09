@@ -198,5 +198,45 @@
         "maxPurchase": 10,
         "maxWallet": 12,
         "tokenStandard": "ERC721"
+    },
+    {
+        "id":"5",
+        "title": "Simplr Sunday Episode 1",
+        "contractAddress": "0x8d3E34EB9Cc388f1aD6cB6F5144fa7823CCFD21d",
+        "abi": [
+            {
+              "inputs": [
+                {
+                  "internalType": "address",
+                  "name": "_buyer",
+                  "type": "address"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "_quantity",
+                  "type": "uint256"
+                }
+              ],
+              "name": "buy",
+              "outputs": [],
+              "stateMutability": "payable",
+              "type": "function"
+            }
+        ],
+        "network": {
+            "chainId": 80001,
+            "name": "Polygon"
+        },
+        "description":"Perfectly good thing to do.",
+        "startTimestamp": 1665304178,
+        "supply":100,
+        "price": 0.001,
+        "banner": "https://simplr.mypinata.cloud/ipfs/QmRUGAfKPGLmKY63JGxhWztZJo4BmMAHTp3yCMqLvenYpX",
+        "logo": "https://simplr.mypinata.cloud/ipfs/QmdP28fV2femAAmoYycLDdhYKD4TrdB3bUKMj9u1p6cq2n",
+        "website_url": "https://simplrcollection.com",
+        "symbol": "SUN",
+        "maxPurchase": 5,
+        "maxWallet": 5,
+        "tokenStandard": "ERC721"
     }
 ]
