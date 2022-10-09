@@ -275,5 +275,42 @@
         "logo": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
         "website_url": "https://simplrcollection.com",
         "symbol":"FC"
+    },
+    {
+        "id":"7",
+        "title": "Coding collection",
+        "contractAddress": "0x60ac36fEEdeBa9477831992fB37291Cff5ba9017",
+        "abi": [
+            {
+              "inputs": [
+                {
+                  "internalType": "address",
+                  "name": "_buyer",
+                  "type": "address"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "_quantity",
+                  "type": "uint256"
+                }
+              ],
+              "name": "buy",
+              "outputs": [],
+              "stateMutability": "payable",
+              "type": "function"
+            }
+        ],
+        "network": {
+            "chainId": 5,
+            "name": "Goerli"
+        },
+        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
+        "startTimestamp": 1665402950,
+        "supply":100,
+        "price": 0.003,
+        "banner": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+        "logo": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+        "website_url": "https://simplrcollection.com",
+        "symbol":"COC"
     }
 ]
