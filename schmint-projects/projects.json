@@ -1,48 +1,8 @@
 [
     {
-        "id":"0",
-        "title": "Silicon Valley Avatars",
-        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
-        "abi": [
-            {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
-            }
-        ],
-        "network": {
-            "chainId": 5,
-            "name": "Goerli"
-        },
-        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
-        "startTimestamp": 1665073800,
-        "supply": 50,
-        "price": 0.005,
-        "banner": "https://simplr.mypinata.cloud/ipfs/Qmb5W3zHPy2iPJkvXbdppUb9hx5TUKknDurqypFWX8vB6W",
-        "logo": "https://simplr.mypinata.cloud/ipfs/QmZtVc9RUH9dWPfP6DTLhoXccbfKTMBeiHw2Z8X4hDT2jr",
-        "website_url": "https://silicon-valleys.com",
-        "symbol": "SIL",
-        "maxPurchase": 10,
-        "maxWallet": 12,
-        "tokenStandard": "ERC721"
-    },
-    {
         "id":"1",
-        "title": "Abstract 3D",
-        "contractAddress": "0x3b3B37f92e52796b6636CB801bFC88018B81A590",
+        "title": "Harbor Agents",
+        "contractAddress": "0xa8dcA7543D778F082572ed35B3418feab98E921F",
         "abi": [
             {
               "inputs": [
@@ -64,263 +24,23 @@
             }
         ],
         "network": {
-            "chainId": 5,
-            "name": "Goerli"
+            "chainId": 80001,
+            "name": "Mumbai"
         },
-        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
-        "startTimestamp": 1665138600,
+        "description": "Welcome to the team, Harbor. Hailing from the coast of India, this new Controller Agent commands a mix of tide and torrent to shield allies and pummel opponents. Made in partnership with Lightfarm Studios.",
+        "startTimestamp": 1665765000,
         "supply":50,
-        "price": 0.003,
-        "banner": "https://images.unsplash.com/photo-1646995931586-076b80286a8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80",
-        "logo": "https://images.unsplash.com/photo-1646995931586-076b80286a8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80",
-        "website_url": "https://simplrcollection.com",
-        "symbol": "ABS",
-        "maxPurchase": 10,
-        "maxWallet": 20,
-        "tokenStandard": "ERC721"
-    },
-    {
-        "id":"2",
-        "title": "Space Puppers",
-        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
-        "abi": [
-            {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
-            }
-        ],
-        "network": {
-            "chainId": 1,
-            "name": "Ethereum"
-        },
-        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
-        "startTimestamp": 1663633800,
-        "supply":100,
-        "price": 0.014,
-        "banner": "https://pixabay.com/get/g700779b1abb9a5a6bc18ff2b3ecfcbd083968beca733ac1790b78ccbf639d6083f4f8c568638849b2903ecad14e9750f_1280.jpg",
-        "logo": "https://pixabay.com/get/g700779b1abb9a5a6bc18ff2b3ecfcbd083968beca733ac1790b78ccbf639d6083f4f8c568638849b2903ecad14e9750f_1280.jpg",
-        "website_url": "https://simplrcollection.com",
-        "symbol": "SPU",
-        "maxPurchase": 10,
-        "maxWallet": 12,
-        "tokenStandard": "ERC721"
-    },
-    {
-        "id":"3",
-        "title": "Summer of Evil",
-        "contractAddress": "0x11594f7aB11584A8218a94668CC72500C3BcDfEB",
-        "abi": [
-            {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
-            }
-        ],
-        "network": {
-            "chainId": 5,
-            "name": "Goerli"
-        },
-        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
-        "startTimestamp": 1665322200,
-        "supply":100,
-        "price": 0.002,
-        "banner": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-        "logo": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-        "website_url": "https://simplrcollection.com",
-        "symbol": "SOE",
-        "maxPurchase": 4,
-        "maxWallet": 12,
-        "tokenStandard": "ERC721"
-    },
-    {
-        "id":"4",
-        "title": "Playful Friction",
-        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
-        "abi": [
-            {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
-            }
-        ],
-        "network": {
-            "chainId": 137,
-            "name": "Polygon"
-        },
-        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
-        "startTimestamp": 1663408800,
-        "supply":100,
-        "price": 0.08,
-        "banner": "https://pixabay.com/get/g999e674e50868d1e0d504eac67b2f5ff598ed95ab38a5c76ea668fb1a7fa8339dfa89f50598243e2c8b84ea5b53c44d8_1280.jpg",
-        "logo": "https://pixabay.com/get/g999e674e50868d1e0d504eac67b2f5ff598ed95ab38a5c76ea668fb1a7fa8339dfa89f50598243e2c8b84ea5b53c44d8_1280.jpg",
-        "website_url": "https://simplrcollection.com",
-        "symbol": "PFR",
-        "maxPurchase": 10,
-        "maxWallet": 12,
-        "tokenStandard": "ERC721"
-    },
-    {
-        "id":"5",
-        "title": "Simplr Sunday Episode 1",
-        "contractAddress": "0x84981Ba8c331787439AB27E1afdfD0fC1Cff757D",
-        "abi": [
-            {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
-            }
-        ],
-        "network": {
-            "chainId": 5,
-            "name": "Goerli"
-        },
-        "description":"Perfectly good thing to do.",
-        "startTimestamp": 1665330000,
-        "supply":100,
-        "price": 0.0001,
-        "banner": "https://simplr.mypinata.cloud/ipfs/QmRUGAfKPGLmKY63JGxhWztZJo4BmMAHTp3yCMqLvenYpX",
-        "logo": "https://simplr.mypinata.cloud/ipfs/QmdP28fV2femAAmoYycLDdhYKD4TrdB3bUKMj9u1p6cq2n",
-        "website_url": "https://schmint.simplrhq.com",
-        "symbol": "SUN",
-        "maxPurchase": 5,
-        "maxWallet": 5,
-        "tokenStandard": "ERC721"
-    },
-    {
-        "id":"6",
-        "title": "Fantastic city collection",
-        "contractAddress": "0x9234F948a618B903088451707eFd338a3B0f9AeE",
-        "abi": [
-            {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
-            }
-        ],
-        "network": {
-            "chainId": 5,
-            "name": "Goerli"
-        },
-        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
-        "startTimestamp": 1665459646,
-        "supply":100,
-        "price": 0.002,
-        "banner": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-        "logo": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-        "website_url": "https://simplrcollection.com",
-        "symbol":"FC",
-        "maxPurchase": 10,
-        "maxWallet": 20,
-        "tokenStandard": "ERC721A"
-    },
-    {
-        "id":"7",
-        "title": "Coding collection",
-        "contractAddress": "0x60ac36fEEdeBa9477831992fB37291Cff5ba9017",
-        "abi": [
-            {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
-            }
-        ],
-        "network": {
-            "chainId": 5,
-            "name": "Goerli"
-        },
-        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
-        "startTimestamp": 1665402950,
-        "supply":100,
         "price": 0.004,
-        "banner": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-        "logo": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-        "website_url": "https://simplrcollection.com",
-        "symbol":"COC",
-        "maxPurchase": 5,
+        "banner": "https://simplr.mypinata.cloud/ipfs/QmQ7j2xB2d6GrBKD8ouTCsLyGaijGpYa2va2CsY9E6bs5W",
+        "logo": "https://simplr.mypinata.cloud/ipfs/QmP4DTDZumtAjSrT7T2H6Z5ALu6Xn3WNzZM68VQtpJkaSt",
+        "website_url": "https://playvalorant.com",
+        "symbol":"HAR",
+        "maxPurchase": 6,
         "maxWallet": 10,
         "tokenStandard": "ERC721"
     },
     {
-        "id":"8",
+        "id":"2",
         "title": "Compelling Collection",
         "contractAddress": "",
         "abi": [],
