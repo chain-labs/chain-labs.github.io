@@ -59,7 +59,8 @@
         "maxPurchase": null,
         "maxWallet": null,
         "tokenStandard": "",
-        "comingSoon": true
+        "comingSoon": true,
+        "info": "The minting details for this project are not yet available but rest assured that you will be able to schmint it soon."
     },
     {
         "id":"3",
