@@ -5,22 +5,17 @@
         "contractAddress": "0xa8dcA7543D778F082572ed35B3418feab98E921F",
         "abi": [
             {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
+                "inputs": [
+                    {
+                        "internalType": "uint256",
+                        "name": "_quantity",
+                        "type": "uint256"
+                    }
+                ],
+                "name": "mint",
+                "outputs": [],
+                "stateMutability": "payable",
+                "type": "function"
             }
         ],
         "network": {
@@ -28,9 +23,9 @@
             "name": "Mumbai"
         },
         "description": "Welcome to the team, Harbor. Hailing from the coast of India, this new Controller Agent commands a mix of tide and torrent to shield allies and pummel opponents. Made in partnership with Lightfarm Studios.",
-        "startTimestamp": 1665765000,
+        "startTimestamp": 1666024200,
         "supply":50,
-        "price": 0.004,
+        "price": 0.003,
         "banner": "https://simplr.mypinata.cloud/ipfs/QmQ7j2xB2d6GrBKD8ouTCsLyGaijGpYa2va2CsY9E6bs5W",
         "logo": "https://simplr.mypinata.cloud/ipfs/QmP4DTDZumtAjSrT7T2H6Z5ALu6Xn3WNzZM68VQtpJkaSt",
         "website_url": "https://playvalorant.com",
