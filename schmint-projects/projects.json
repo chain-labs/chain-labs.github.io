@@ -96,5 +96,45 @@
         "maxPurchase": 4,
         "maxWallet": 20,
         "tokenStandard": "ERC721A"
+    },
+    {
+        "id":"4",
+        "title": "Simplr's Schmint Demo",
+        "contractAddress": "0xBD7b3c0357f161E4ab3A45C4fB59faC991Ef07A3",
+        "abi": [
+            {
+              "inputs": [
+                {
+                  "internalType": "address",
+                  "name": "_buyer",
+                  "type": "address"
+                },
+                {
+                  "internalType": "uint256",
+                  "name": "_quantity",
+                  "type": "uint256"
+                }
+              ],
+              "name": "buy",
+              "outputs": [],
+              "stateMutability": "payable",
+              "type": "function"
+            }
+        ],
+        "network": {
+            "chainId": 5,
+            "name": "Goerli"
+        },
+        "description": "Schmint is the next-gen automation tool for collectors powered by deep-tech and made up of distributed nodes.",
+        "startTimestamp": 1665816900,
+        "supply":100,
+        "price": 0.0001,
+        "banner": "https://simplr.mypinata.cloud/ipfs/QmRUGAfKPGLmKY63JGxhWztZJo4BmMAHTp3yCMqLvenYpX",
+        "logo": "https://simplr.mypinata.cloud/ipfs/QmdP28fV2femAAmoYycLDdhYKD4TrdB3bUKMj9u1p6cq2n",
+        "website_url": "https://schmint.simplrhq.com",
+        "symbol":"SSD",
+        "maxPurchase": 5,
+        "maxWallet": 5,
+        "tokenStandard": "ERC721"
     }
 ]
