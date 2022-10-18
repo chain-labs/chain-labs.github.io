@@ -136,5 +136,40 @@
         "maxPurchase": 5,
         "maxWallet": 5,
         "tokenStandard": "ERC721"
+    },
+     {
+        "id":"5",
+        "title": "Psychonauts",
+        "contractAddress": "0x212aD510CeD3Ac9464E56Db23653349ed3F427c7",
+        "abi": [
+            {
+                "inputs": [
+                    {
+                        "internalType": "uint256",
+                        "name": "_quantity",
+                        "type": "uint256"
+                    }
+                ],
+                "name": "mint",
+                "outputs": [],
+                "stateMutability": "payable",
+                "type": "function"
+            }
+        ],
+        "network": {
+            "chainId": 5,
+            "name": "Goerli"
+        },
+        "description": "Psychonauts is a platform game that incorporates various adventure elements. The player controls the main character Raz in a third-person, three-dimensional view, helping Raz to uncover a mystery at the Psychonauts training camp.",
+        "startTimestamp": 1666186200,
+        "supply":100,
+        "price": 0.005,
+        "banner": "https://cdn.akamai.steamstatic.com/steam/apps/607080/capsule_616x353.jpg?t=1653407955",
+        "logo": "https://assets2.rockpapershotgun.com/psychonauts-2-raz-close-up.jpg/BROK/thumbnail/1200x900/quality/100/psychonauts-2-raz-close-up.jpg",
+        "website_url": "https://store.steampowered.com/app/3830/Psychonauts/",
+        "symbol":"PSY",
+        "maxPurchase": 5,
+        "maxWallet": 10,
+        "tokenStandard": "ERC721"
     }
 ]
