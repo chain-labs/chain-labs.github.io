@@ -32,7 +32,8 @@
         "symbol": "HAR",
         "maxPurchase": 6,
         "maxWallet": 10,
-        "tokenStandard": "ERC721"
+        "tokenStandard": "ERC721",
+        "twitter_url": "https://twitter.com/simplrhq"
     },
     {
         "id": "2",
@@ -55,7 +56,8 @@
         "maxWallet": null,
         "tokenStandard": "",
         "comingSoon": true,
-        "info": "The minting details for this project are not yet available but rest assured that you will be able to schmint it soon."
+        "info": "The minting details for this project are not yet available but rest assured that you will be able to schmint it soon.",
+        "twitter_url": "https://twitter.com/simplrhq"
     },
     {
         "id": "3",
@@ -95,7 +97,9 @@
         "symbol": "ENE",
         "maxPurchase": 4,
         "maxWallet": 20,
-        "tokenStandard": "ERC721A"
+        "tokenStandard": "ERC721A",
+        "twitter_url": "https://twitter.com/simplrhq"
+
     },
     {
         "id": "4",
@@ -171,6 +175,8 @@
         "symbol": "PSY",
         "maxPurchase": 5,
         "maxWallet": 10,
-        "tokenStandard": "ERC721"
+        "tokenStandard": "ERC721",
+        "twitter_url": "https://twitter.com/simplrhq"
+
     }
 ]
