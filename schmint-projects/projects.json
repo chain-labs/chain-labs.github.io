@@ -1,6 +1,6 @@
 [
     {
-        "id":"1",
+        "id": "1",
         "title": "Harbor Agents",
         "contractAddress": "0xa8dcA7543D778F082572ed35B3418feab98E921F",
         "abi": [
@@ -24,18 +24,18 @@
         },
         "description": "Welcome to the team, Harbor. Hailing from the coast of India, this new Controller Agent commands a mix of tide and torrent to shield allies and pummel opponents. Made in partnership with Lightfarm Studios.",
         "startTimestamp": 1666024200,
-        "supply":50,
+        "supply": 50,
         "price": 0.004,
         "banner": "https://simplr.mypinata.cloud/ipfs/QmQ7j2xB2d6GrBKD8ouTCsLyGaijGpYa2va2CsY9E6bs5W",
         "logo": "https://simplr.mypinata.cloud/ipfs/QmP4DTDZumtAjSrT7T2H6Z5ALu6Xn3WNzZM68VQtpJkaSt",
         "website_url": "https://playvalorant.com",
-        "symbol":"HAR",
+        "symbol": "HAR",
         "maxPurchase": 6,
         "maxWallet": 10,
         "tokenStandard": "ERC721"
     },
     {
-        "id":"2",
+        "id": "2",
         "title": "Compelling Collection",
         "contractAddress": "",
         "abi": [],
@@ -43,14 +43,14 @@
             "chainId": null,
             "name": ""
         },
-        "description":"Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
+        "description": "Eget integer turpis montes, ut viverra. Faucibus facilisi scelerisque pretium sodales. Purus in id penatibus tortor id duis. Ullamcorper eu, proin eget sapien sed. Adipiscing amet faucibus amet nisl tristique. Elit amet, ut aliquet velit, amet. Tempus odio arcu nibh sed vel fusce donec vestibulum. Arcu vehicula lobortis dolor feugiat non quisque hac morbi a. Habitant semper sed non tempus urna sit arcu bibendum cras. Enim, lobortis nisl tincidunt morbi odio sed habitant ut magna",
         "startTimestamp": null,
-        "supply":null,
+        "supply": null,
         "price": null,
         "banner": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
         "logo": "https://images.unsplash.com/photo-1654619609812-5a47f5fd1c17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
         "website_url": "https://simplrcollection.com",
-        "symbol":"COC",
+        "symbol": "COC",
         "maxPurchase": null,
         "maxWallet": null,
         "tokenStandard": "",
@@ -58,27 +58,27 @@
         "info": "The minting details for this project are not yet available but rest assured that you will be able to schmint it soon."
     },
     {
-        "id":"3",
+        "id": "3",
         "title": "Enemies of Riot",
         "contractAddress": "0x9ddD9171Ed03EE11bc18a1bf6178e177632885Fd",
         "abi": [
             {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
+                "inputs": [
+                    {
+                        "internalType": "address",
+                        "name": "_buyer",
+                        "type": "address"
+                    },
+                    {
+                        "internalType": "uint256",
+                        "name": "_quantity",
+                        "type": "uint256"
+                    }
+                ],
+                "name": "buy",
+                "outputs": [],
+                "stateMutability": "payable",
+                "type": "function"
             }
         ],
         "network": {
@@ -87,38 +87,38 @@
         },
         "description": "Two sisters. Two cities. One discovery that will change the world forever. In the cities of Piltover and Zaun, unrest stirs as inventors and thieves, politicians and crime lords chafe against the constraints of a society torn asunder.",
         "startTimestamp": 1665721800,
-        "supply":80,
+        "supply": 80,
         "price": 0.002,
         "banner": "https://simplr.mypinata.cloud/ipfs/QmNyTzLrUft2zCMmsZmW2PCXcwiVMUhh8TPrSft5cJusJw",
         "logo": "https://simplr.mypinata.cloud/ipfs/QmRQSUZniFUwzX6r5PYhwoX95KzuZ9xpGd953EYBrvyp2o",
         "website_url": "https://arcane.com",
-        "symbol":"ENE",
+        "symbol": "ENE",
         "maxPurchase": 4,
         "maxWallet": 20,
         "tokenStandard": "ERC721A"
     },
     {
-        "id":"4",
+        "id": "4",
         "title": "Simplr's Schmint Demo",
         "contractAddress": "0xBD7b3c0357f161E4ab3A45C4fB59faC991Ef07A3",
         "abi": [
             {
-              "inputs": [
-                {
-                  "internalType": "address",
-                  "name": "_buyer",
-                  "type": "address"
-                },
-                {
-                  "internalType": "uint256",
-                  "name": "_quantity",
-                  "type": "uint256"
-                }
-              ],
-              "name": "buy",
-              "outputs": [],
-              "stateMutability": "payable",
-              "type": "function"
+                "inputs": [
+                    {
+                        "internalType": "address",
+                        "name": "_buyer",
+                        "type": "address"
+                    },
+                    {
+                        "internalType": "uint256",
+                        "name": "_quantity",
+                        "type": "uint256"
+                    }
+                ],
+                "name": "buy",
+                "outputs": [],
+                "stateMutability": "payable",
+                "type": "function"
             }
         ],
         "network": {
@@ -127,19 +127,19 @@
         },
         "description": "Schmint is the next-gen automation tool for collectors powered by deep-tech and made up of distributed nodes.",
         "startTimestamp": 1665816900,
-        "supply":100,
+        "supply": 100,
         "price": 0.0001,
         "banner": "https://simplr.mypinata.cloud/ipfs/QmRUGAfKPGLmKY63JGxhWztZJo4BmMAHTp3yCMqLvenYpX",
         "logo": "https://simplr.mypinata.cloud/ipfs/QmdP28fV2femAAmoYycLDdhYKD4TrdB3bUKMj9u1p6cq2n",
         "website_url": "https://schmint.simplrhq.com",
-        "symbol":"SSD",
+        "symbol": "SSD",
         "maxPurchase": 5,
         "maxWallet": 5,
         "tokenStandard": "ERC721",
         "twitter_url": "https://twitter.com/simplrhq"
     },
-     {
-        "id":"5",
+    {
+        "id": "5",
         "title": "Psychonauts",
         "contractAddress": "0x212aD510CeD3Ac9464E56Db23653349ed3F427c7",
         "abi": [
@@ -163,12 +163,12 @@
         },
         "description": "Psychonauts is a platform game that incorporates various adventure elements. The player controls the main character Raz in a third-person, three-dimensional view, helping Raz to uncover a mystery at the Psychonauts training camp.",
         "startTimestamp": 1666186200,
-        "supply":100,
+        "supply": 100,
         "price": 0.005,
         "banner": "https://cdn.akamai.steamstatic.com/steam/apps/607080/capsule_616x353.jpg?t=1653407955",
         "logo": "https://assets2.rockpapershotgun.com/psychonauts-2-raz-close-up.jpg/BROK/thumbnail/1200x900/quality/100/psychonauts-2-raz-close-up.jpg",
         "website_url": "https://store.steampowered.com/app/3830/Psychonauts/",
-        "symbol":"PSY",
+        "symbol": "PSY",
         "maxPurchase": 5,
         "maxWallet": 10,
         "tokenStandard": "ERC721"
