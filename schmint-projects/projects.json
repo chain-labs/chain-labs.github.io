@@ -135,7 +135,7 @@
         "symbol":"SSD",
         "maxPurchase": 5,
         "maxWallet": 5,
-        "tokenStandard": "ERC721"
+        "tokenStandard": "ERC721",
         "twitter_url": "https://twitter.com/simplrhq"
     },
      {
