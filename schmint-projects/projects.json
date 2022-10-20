@@ -457,7 +457,13 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "twitter_url": "https://twitter.com/simplrhq",
+        "x2y2_url": "https://twitter.com/simplrhq",
+        "looksrare_url": "https://twitter.com/simplrhq",
+        "opensea_url": "https://twitter.com/simplrhq",
+        "rarity_url": "https://twitter.com/simplrhq",
+        "icytools_url": "https://twitter.com/simplrhq",
+        "discord_url": "https://twitter.com/simplrhq"
     },
     {
         "id": "13",
