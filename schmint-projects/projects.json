@@ -33,8 +33,14 @@
         "maxPurchase": 6,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "simplrhq"
-    },
+        "twitter_url": "https://twitter.com/simplrhq",
+        "x2y2_url": "https://twitter.com/simplrhq",
+        "looksrare_url": "https://twitter.com/simplrhq",
+        "opensea_url": "https://twitter.com/simplrhq",
+        "rarity_url": "https://twitter.com/simplrhq",
+        "icytools_url": "https://twitter.com/simplrhq",
+        "discord_url": "https://twitter.com/simplrhq"
+          },
     {
         "id": "2",
         "title": "Compelling Collection",
@@ -57,8 +63,13 @@
         "tokenStandard": "",
         "comingSoon": true,
         "info": "The minting details for this project are not yet available but rest assured that you will be able to schmint it soon.",
-        "twitter_url": "https://twitter.com/simplrhq"
-    },
+        "twitter_url": "https://twitter.com/simplrhq",
+        "x2y2_url": "https://twitter.com/simplrhq",
+        "looksrare_url": "https://twitter.com/simplrhq",
+        "opensea_url": "https://twitter.com/simplrhq",
+        "rarity_url": "https://twitter.com/simplrhq",
+        "icytools_url": "https://twitter.com/simplrhq",
+        "discord_url": "https://twitter.com/simplrhq"    },
     {
         "id": "3",
         "title": "Enemies of Riot",
@@ -98,8 +109,13 @@
         "maxPurchase": 4,
         "maxWallet": 20,
         "tokenStandard": "ERC721A",
-        "twitter_url": "https://twitter.com/simplrhq"
-    },
+        "twitter_url": "https://twitter.com/simplrhq",
+        "x2y2_url": "https://twitter.com/simplrhq",
+        "looksrare_url": "https://twitter.com/simplrhq",
+        "opensea_url": "https://twitter.com/simplrhq",
+        "rarity_url": "https://twitter.com/simplrhq",
+        "icytools_url": "https://twitter.com/simplrhq",
+        "discord_url": "https://twitter.com/simplrhq"    },
     {
         "id": "4",
         "title": "Simplr's Schmint Demo",
@@ -139,8 +155,13 @@
         "maxPurchase": 5,
         "maxWallet": 5,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
-    },
+        "twitter_url": "https://twitter.com/simplrhq",
+        "x2y2_url": "https://twitter.com/simplrhq",
+        "looksrare_url": "https://twitter.com/simplrhq",
+        "opensea_url": "https://twitter.com/simplrhq",
+        "rarity_url": "https://twitter.com/simplrhq",
+        "icytools_url": "https://twitter.com/simplrhq",
+        "discord_url": "https://twitter.com/simplrhq"    },
     {
         "id": "5",
         "title": "Psychonauts",
@@ -175,8 +196,13 @@
         "maxPurchase": 5,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "psychonauts"
-    },
+        "twitter_url": "https://twitter.com/simplrhq",
+        "x2y2_url": "https://twitter.com/simplrhq",
+        "looksrare_url": "https://twitter.com/simplrhq",
+        "opensea_url": "https://twitter.com/simplrhq",
+        "rarity_url": "https://twitter.com/simplrhq",
+        "icytools_url": "https://twitter.com/simplrhq",
+        "discord_url": "https://twitter.com/simplrhq"    },
     {
         "id": "6",
         "title": "Schmint Launch Party 1",
@@ -457,7 +483,13 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "twitter_url": "https://twitter.com/simplrhq",
+        "x2y2_url": "https://twitter.com/simplrhq",
+        "looksrare_url": "https://twitter.com/simplrhq",
+        "opensea_url": "https://twitter.com/simplrhq",
+        "rarity_url": "https://twitter.com/simplrhq",
+        "icytools_url": "https://twitter.com/simplrhq",
+        "discord_url": "https://twitter.com/simplrhq"
     },
     {
         "id": "13",
