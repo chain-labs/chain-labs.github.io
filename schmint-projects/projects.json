@@ -296,7 +296,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 9,
+        "id": "9",
         "title": "Schmint Test Collection #9",
         "contractAddress": "0xf2AECC528dBAbD2ADcDfdD78412C4BB59B5bEA3A",
         "abi": [
@@ -337,7 +337,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 10,
+        "id": "10",
         "title": "Schmint Test Collection #10",
         "contractAddress": "0x8Bcb19178e2300b3B6805338621D422F0eB2A571",
         "abi": [
@@ -378,7 +378,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 11,
+        "id": "11",
         "title": "Schmint Test Collection #11",
         "contractAddress": "0xb042AAc18e8159eE70329C6567d09cBa79Bcac2C",
         "abi": [
@@ -419,7 +419,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 12,
+        "id": "12",
         "title": "Schmint Test Collection #12",
         "contractAddress": "0x4eBb295F20B77d83B5a6D1EC8A3B929dAf1B4F2F",
         "abi": [
@@ -460,7 +460,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 13,
+        "id": "13",
         "title": "Schmint Test Collection #13",
         "contractAddress": "0x5982e285c2d2bCdab805c35E682c801aF05312ee",
         "abi": [
@@ -501,7 +501,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 14,
+        "id": "14",
         "title": "Schmint Test Collection #14",
         "contractAddress": "0x4eaB45CE565B406ac03993D1b6fE61989F694b76",
         "abi": [
@@ -542,7 +542,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 15,
+        "id": "15",
         "title": "Schmint Test Collection #15",
         "contractAddress": "0x4E2dB77866e0143A38C8C958DDb021D959e4e8FF",
         "abi": [
@@ -583,7 +583,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 16,
+        "id": "16",
         "title": "Schmint Test Collection #16",
         "contractAddress": "0x7393adE3c94d0Eb0AC83434fE9a4a617D23E8E76",
         "abi": [
@@ -624,7 +624,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 17,
+        "id": "17",
         "title": "Schmint Test Collection #17",
         "contractAddress": "0xC7dDa725Bb8808aA3C8C0f6F1b542c39dD007050",
         "abi": [
@@ -665,7 +665,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 18,
+        "id": "18",
         "title": "Schmint Test Collection #18",
         "contractAddress": "0x8e2F7f1d92991d10aEb2FddD620FFf013130E4f8",
         "abi": [
@@ -706,7 +706,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 19,
+        "id": "19",
         "title": "Schmint Test Collection #19",
         "contractAddress": "0x77283de9e593e46D439cE9bbAd99FE3f130f0640",
         "abi": [
@@ -747,7 +747,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 20,
+        "id": "20",
         "title": "Schmint Test Collection #20",
         "contractAddress": "0x6dE5958E8a8EB72F862581CbCBCF570304FA85c6",
         "abi": [
@@ -788,7 +788,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 21,
+        "id": "21",
         "title": "Schmint Test Collection #21",
         "contractAddress": "0xeba6Cf11d88d6047b89F5a5880612FCB84e3abFF",
         "abi": [
@@ -829,7 +829,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 22,
+        "id": "22",
         "title": "Schmint Test Collection #22",
         "contractAddress": "0x650EB6721159A5f2587406EfA8870b52BcA7265a",
         "abi": [
@@ -870,7 +870,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 23,
+        "id": "23",
         "title": "Schmint Test Collection #23",
         "contractAddress": "0x2B57b71B8aCef0918EA109281C2F9258Af889a6e",
         "abi": [
@@ -911,7 +911,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 24,
+        "id": "24",
         "title": "Schmint Test Collection #24",
         "contractAddress": "0x02c0b28C259150112263B2b05554246097407166",
         "abi": [
@@ -952,7 +952,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 25,
+        "id": "25",
         "title": "Schmint Test Collection #25",
         "contractAddress": "0x4A8b2AB5Bd9Db4814728253Dc609B61188BEE2d4",
         "abi": [
@@ -993,7 +993,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 26,
+        "id": "26",
         "title": "Schmint Test Collection #26",
         "contractAddress": "0x45017DC66F7E84dc8a8b7c1c78BA346b05bA5Ed1",
         "abi": [
@@ -1034,7 +1034,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 27,
+        "id": "27",
         "title": "Schmint Test Collection #27",
         "contractAddress": "0x44a0039B839E0a4B3dE66caDC26C96c091d6e2D9",
         "abi": [
@@ -1075,7 +1075,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 28,
+        "id": "28",
         "title": "Schmint Test Collection #28",
         "contractAddress": "0x9a76F07720aB69543a97dE876e5458c091d9f11a",
         "abi": [
@@ -1116,7 +1116,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 29,
+        "id": "29",
         "title": "Schmint Test Collection #29",
         "contractAddress": "0x7C9Fe992975E17b9aDa2514fba428ca79029Cd6e",
         "abi": [
@@ -1157,7 +1157,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 30,
+        "id": "30",
         "title": "Schmint Test Collection #30",
         "contractAddress": "0x6b21c5Ed3A24D3F875361eAa50a8829EeE49199e",
         "abi": [
@@ -1198,7 +1198,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 31,
+        "id": "31",
         "title": "Schmint Test Collection #31",
         "contractAddress": "0x77100A1bd8757c58301Cff598bD01dE22befDF21",
         "abi": [
@@ -1239,7 +1239,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 32,
+        "id": "32",
         "title": "Schmint Test Collection #32",
         "contractAddress": "0x5656688ae747d430ACEC9b8B346c3F7F676F74B7",
         "abi": [
@@ -1280,7 +1280,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 33,
+        "id": "33",
         "title": "Schmint Test Collection #33",
         "contractAddress": "0x5a0EA1dEDb1104238831E4B55797ff8694398182",
         "abi": [
@@ -1362,7 +1362,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 35,
+        "id": "35",
         "title": "Schmint Test Collection #35",
         "contractAddress": "0xaD23ef5341351A1fe6861867a327A9B12f8E2F17",
         "abi": [
@@ -1403,7 +1403,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 36,
+        "id": "36",
         "title": "Schmint Test Collection #36",
         "contractAddress": "0x82c78fAE6BF0Fd8bBEb44baC232c88abBA49DC61",
         "abi": [
@@ -1444,7 +1444,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 37,
+        "id": "37",
         "title": "Schmint Test Collection #37",
         "contractAddress": "0x1c28629332c31D1D82d33499e0205017b3C09e29",
         "abi": [
@@ -1485,7 +1485,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 38,
+        "id": "38",
         "title": "Schmint Test Collection #38",
         "contractAddress": "0xFc7995AA8F7326956b05ABa72C784f601258b71b",
         "abi": [
@@ -1526,7 +1526,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 39,
+        "id": "39",
         "title": "Schmint Test Collection #39",
         "contractAddress": "0x89525E2468f3706C4130B33B3BcC5d4bFf978794",
         "abi": [
@@ -1567,7 +1567,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 40,
+        "id": "40",
         "title": "Schmint Test Collection #40",
         "contractAddress": "0xadB54f133232d6C0dEfE398b411DFAE560a829E4",
         "abi": [
@@ -1608,7 +1608,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 41,
+        "id": "41",
         "title": "Schmint Test Collection #41",
         "contractAddress": "0x705ee77c257e481bF7c46c6E36C5488cB003b40d",
         "abi": [
@@ -1649,7 +1649,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 42,
+        "id": "42",
         "title": "Schmint Test Collection #42",
         "contractAddress": "0xCab1EB19D9563eD6B373733Dc8E85dc3CeeFe582",
         "abi": [
@@ -1690,7 +1690,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 43,
+        "id": "43",
         "title": "Schmint Test Collection #43",
         "contractAddress": "0xc49Da4b4F982E08b89De59Ce901C965F3cA4455D",
         "abi": [
@@ -1731,7 +1731,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 44,
+        "id": "44",
         "title": "Schmint Test Collection #44",
         "contractAddress": "0x3295Bd583624D3Ea763A61115763D40bCfaE9759",
         "abi": [
@@ -1772,7 +1772,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 45,
+        "id": "45",
         "title": "Schmint Test Collection #45",
         "contractAddress": "0x20b5348e0Df1283477214dE32D0279E866271016",
         "abi": [
@@ -1813,7 +1813,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 46,
+        "id": "46",
         "title": "Schmint Test Collection #46",
         "contractAddress": "0xda4Dc8B489ff5247502c099dE4220748e7D0Bfda",
         "abi": [
@@ -1854,7 +1854,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 47,
+        "id": "47",
         "title": "Schmint Test Collection #47",
         "contractAddress": "0xdBa369Cf5818007509c8af75c1286118bD7A26b4",
         "abi": [
@@ -1895,7 +1895,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 48,
+        "id": "48",
         "title": "Schmint Test Collection #48",
         "contractAddress": "0xa32611662f534c1Eb171828F4824657eFaa87046",
         "abi": [
@@ -1936,7 +1936,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 49,
+        "id": "49",
         "title": "Schmint Test Collection #49",
         "contractAddress": "0x5a4D29E20161323DB30aA43C73C6923AdBCbDe02",
         "abi": [
@@ -1977,7 +1977,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 50,
+        "id": "50",
         "title": "Schmint Test Collection #50",
         "contractAddress": "0x5C4c76C2D14D74d478968CC44e573613a4f26524",
         "abi": [
@@ -2018,7 +2018,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 51,
+        "id": "51",
         "title": "Schmint Test Collection #51",
         "contractAddress": "0x00b2a03DBdfF9248575aA5ac4e4A5081113006Cb",
         "abi": [
@@ -2059,7 +2059,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 52,
+        "id": "52",
         "title": "Schmint Test Collection #52",
         "contractAddress": "0xcDfFc7370b98dbDC568f5705aDa4271C7141b764",
         "abi": [
@@ -2100,7 +2100,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 53,
+        "id": "53",
         "title": "Schmint Test Collection #53",
         "contractAddress": "0x1497B57F742222326C1d9aC77696ffAe392b79E4",
         "abi": [
@@ -2141,7 +2141,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 54,
+        "id": "54",
         "title": "Schmint Test Collection #54",
         "contractAddress": "0xc78D3d215CCC0354f08D964545bd959bC3e8fDf8",
         "abi": [
@@ -2182,7 +2182,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 55,
+        "id": "55",
         "title": "Schmint Test Collection #55",
         "contractAddress": "0x075c959A08d22D0E8e8a9C62780b253a6F6f630f",
         "abi": [
@@ -2223,7 +2223,7 @@
         "twitter_url": "https://twitter.com/simplrhq"
     },
     {
-        "id": 56,
+        "id": "56",
         "title": "Schmint Test Collection #56",
         "contractAddress": "0xa2C9e13127BB5a2813C97cF0685bDef100391De3",
         "abi": [
