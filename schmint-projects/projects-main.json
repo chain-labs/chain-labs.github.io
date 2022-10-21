@@ -37,7 +37,7 @@
         "symbol": "TAS",
         "maxPurchase": 1,
         "maxWallet": 1,
-        "tokenStandard": "ERC721A",
+        "tokenStandard": "ERC721",
         "socials": {
             "twitter_url": "https://twitter.com/simplrhq",
             "opensea_url": "https://opensea.io/collection/the-alpha-schminters",
