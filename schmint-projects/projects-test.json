@@ -104,7 +104,7 @@
         "symbol": "ENE",
         "maxPurchase": 4,
         "maxWallet": 20,
-        "tokenStandard": "ERC721A",
+        "tokenStandard": "ERC721A"
     },
     {
         "id": "4",
