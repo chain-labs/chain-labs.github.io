@@ -33,7 +33,16 @@
         "maxPurchase": 6,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq",
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        ,
         "x2y2_url": "https://twitter.com/simplrhq",
         "looksrare_url": "https://twitter.com/simplrhq",
         "opensea_url": "https://twitter.com/simplrhq",
@@ -155,7 +164,16 @@
         "maxPurchase": 5,
         "maxWallet": 5,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq",
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        ,
         "x2y2_url": "https://twitter.com/simplrhq",
         "looksrare_url": "https://twitter.com/simplrhq",
         "opensea_url": "https://twitter.com/simplrhq",
@@ -196,13 +214,19 @@
         "maxPurchase": 5,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq",
-        "x2y2_url": "https://twitter.com/simplrhq",
-        "looksrare_url": "https://twitter.com/simplrhq",
-        "opensea_url": "https://twitter.com/simplrhq",
-        "rarity_url": "https://twitter.com/simplrhq",
-        "icytools_url": "https://twitter.com/simplrhq",
-        "discord_url": "https://twitter.com/simplrhq"    },
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
+        
+      
+      },
     {
         "id": "6",
         "title": "Schmint Launch Party 1",
@@ -237,7 +261,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "7",
@@ -278,7 +311,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "8",
@@ -319,7 +361,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "9",
@@ -360,7 +411,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "10",
@@ -401,7 +461,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "11",
@@ -442,7 +511,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "12",
@@ -483,7 +561,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq",
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        ,
         "x2y2_url": "https://twitter.com/simplrhq",
         "looksrare_url": "https://twitter.com/simplrhq",
         "opensea_url": "https://twitter.com/simplrhq",
@@ -530,7 +617,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "14",
@@ -571,7 +667,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "15",
@@ -612,7 +717,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "16",
@@ -653,7 +767,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "17",
@@ -694,7 +817,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "18",
@@ -735,7 +867,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "19",
@@ -776,7 +917,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "20",
@@ -817,7 +967,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "21",
@@ -858,7 +1017,15 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
     },
     {
         "id": "22",
@@ -899,7 +1066,15 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
     },
     {
         "id": "23",
@@ -940,7 +1115,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "24",
@@ -981,7 +1165,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "25",
@@ -1022,7 +1215,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "26",
@@ -1063,7 +1265,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "27",
@@ -1104,7 +1315,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "28",
@@ -1145,7 +1365,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "29",
@@ -1186,7 +1415,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "30",
@@ -1227,7 +1465,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "31",
@@ -1268,7 +1515,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "32",
@@ -1309,7 +1565,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "33",
@@ -1350,7 +1615,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "34",
@@ -1391,7 +1665,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "35",
@@ -1432,7 +1715,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "36",
@@ -1473,7 +1765,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "37",
@@ -1514,7 +1815,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "38",
@@ -1555,7 +1865,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "39",
@@ -1596,7 +1915,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "40",
@@ -1637,7 +1965,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "41",
@@ -1678,7 +2015,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "42",
@@ -1719,7 +2065,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "43",
@@ -1760,7 +2115,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "44",
@@ -1801,7 +2165,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "45",
@@ -1842,7 +2215,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "46",
@@ -1883,7 +2265,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "47",
@@ -1924,7 +2315,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "48",
@@ -1965,7 +2365,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "49",
@@ -2006,7 +2415,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "50",
@@ -2047,7 +2465,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "51",
@@ -2088,7 +2515,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "52",
@@ -2129,7 +2565,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "53",
@@ -2170,7 +2615,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "54",
@@ -2211,7 +2665,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "55",
@@ -2252,7 +2715,16 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     },
     {
         "id": "56",
@@ -2293,6 +2765,15 @@
         "maxPurchase": 10,
         "maxWallet": 10,
         "tokenStandard": "ERC721",
-        "twitter_url": "https://twitter.com/simplrhq"
+        "socials":{
+          "twitter_url": "https://twitter.com/simplrhq",
+          "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+          "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+          "opensea_url": "https://opensea.io/collection/dodoor-nft",
+          "rarity_url": "https://rarity.tools/super-bb",
+          "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+          "discord_url": " https://discord.gg/VAes7Nfj" 
+        }
+        
     }
 ]
