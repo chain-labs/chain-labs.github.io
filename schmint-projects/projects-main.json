@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "id": "1",
+        "title": "The Alpha Schminters",
+        "contractAddress": "0x60cA1D0095deAD351F2ac5ED1e3Bad01a52d8c1c",
+        "abi": [
+            {
+                "inputs": [
+                    {
+                        "internalType": "address",
+                        "name": "_buyer",
+                        "type": "address"
+                    },
+                    {
+                        "internalType": "uint256",
+                        "name": "_quantity",
+                        "type": "uint256"
+                    }
+                ],
+                "name": "buy",
+                "outputs": [],
+                "stateMutability": "payable",
+                "type": "function"
+            }
+        ],
+        "network": {
+            "chainId": 137,
+            "name": "Matic"
+        },
+        "description": "An exclusive Alpha Schminter NFT has its own value. It goes to only those who have been with Schmint since the beginning and those who witnessed its Alpha launch on the 21st of October 2022, and this NFT also marks the holder's importance in the community.",
+        "startTimestamp": 1666458000,
+        "supply": 100,
+        "price": 0,
+        "banner": "https://simplr.mypinata.cloud/ipfs/QmQBiKXiuof2kJKUWm8E4WhBW5KahjGqPmoHSWHHkrbvC2",
+        "logo": "https://simplr.mypinata.cloud/ipfs/QmQniTkJHFdYGmpKnDL4NNvo7fpbKrTTVyGnizHkHoQEve",
+        "website_url": "https://schmint.simplrhq.com",
+        "symbol": "TAS",
+        "maxPurchase": 1,
+        "maxWallet": 1,
+        "tokenStandard": "ERC721A",
+        "socials": {
+            "twitter_url": "https://twitter.com/simplrhq",
+            "opensea_url": "https://opensea.io/collection/the-alpha-schminters",
+            "discord_url": " https://discord.gg/wBwj6vxm"
+        }
+    }
+]
