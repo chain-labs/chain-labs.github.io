@@ -2695,5 +2695,47 @@
             "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
             "discord_url": " https://discord.gg/VAes7Nfj"
         }
+    },
+    ,
+    {
+        "id": 57,
+        "title": "Schmint Test Collection #8",
+        "contractAddress": "0x65e076dD13fC1801be636767fb1d6237fe4e4b60",
+        "abi": [
+            {
+                "inputs": [
+                    {
+                        "internalType": "uint256",
+                        "name": "_quantity",
+                        "type": "uint256"
+                    },
+                    {
+                        "internalType": "address",
+                        "name": "_receiver",
+                        "type": "address"
+                    }
+                ],
+                "name": "buy",
+                "outputs": [],
+                "stateMutability": "payable",
+                "type": "function"
+            }
+        ],
+        "network": {
+            "chainId": 80001,
+            "name": "Mumbai"
+        },
+        "description": "Psychonauts is a platform game that incorporates various adventure elements. The player controls the main character Raz in a third-person, three-dimensional view, helping Raz to uncover a mystery at the Psychonauts training camp.",
+        "startTimestamp": 1666790709,
+        "supply": 100,
+        "price": 0,
+        "banner": "https://cdn.akamai.steamstatic.com/steam/apps/607080/capsule_616x353.jpg?t=1653407955",
+        "logo": "https://assets2.rockpapershotgun.com/psychonauts-2-raz-close-up.jpg/BROK/thumbnail/1200x900/quality/100/psychonauts-2-raz-close-up.jpg",
+        "website_url": "https://store.steampowered.com/app/3830/Psychonauts/",
+        "symbol": "STC#8",
+        "maxPurchase": 10,
+        "maxWallet": 10,
+        "tokenStandard": "ERC721",
+        "twitter_url": "https://twitter.com/simplrhq"
     }
 ]
