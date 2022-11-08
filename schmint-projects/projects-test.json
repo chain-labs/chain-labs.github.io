@@ -2785,5 +2785,54 @@
             "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
             "discord_url": " https://discord.gg/VAes7Nfj"
         }
+    },
+    {
+        "id": "59",
+        "title": "Simplr Collection",
+        "contractAddress": "0x42e4ff52bdC2317A6A5d9587dbAaD1cB580088D1",
+        "abi": [
+            {
+                "inputs": [
+                    {
+                        "internalType": "address",
+                        "name": "_buyer",
+                        "type": "address"
+                    },
+                    {
+                        "internalType": "uint256",
+                        "name": "_quantity",
+                        "type": "uint256"
+                    }
+                ],
+                "name": "buy",
+                "outputs": [],
+                "stateMutability": "payable",
+                "type": "function"
+            }
+        ],
+        "network": {
+            "chainId": 5,
+            "name": "Goerli"
+        },
+        "description": "Collectors, take control with Schmint. This is an amazing description to attract you. So pretend you are being attracted to this. I'm no Elon Musk, but get excited with this.",
+        "startTimestamp": 1667935800,
+        "supply": 1000,
+        "price": 0.0,
+        "banner": "https://simplr.mypinata.cloud/ipfs/QmQBiKXiuof2kJKUWm8E4WhBW5KahjGqPmoHSWHHkrbvC2",
+        "logo": "https://simplr.mypinata.cloud/ipfs/QmQniTkJHFdYGmpKnDL4NNvo7fpbKrTTVyGnizHkHoQEve",
+        "website_url": "https://schmint.simplrhq.com",
+        "symbol": "SDV",
+        "maxPurchase": 4,
+        "maxWallet": 12,
+        "tokenStandard": "ERC721",
+        "socials": {
+            "twitter_url": "https://twitter.com/simplrhq",
+            "x2y2_url": " https://x2y2.io/collection/otherdeed/items",
+            "looksrare_url": " https://looksrare.org/collections/0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+            "opensea_url": "https://opensea.io/collection/the-alpha-schminters",
+            "rarity_url": "https://rarity.tools/super-bb",
+            "icytools_url": "https://icy.tools/collections/0x30bfda9be76797fd464dd1769ec87112dc5abeae/overview",
+            "discord_url": " https://discord.gg/VAes7Nfj"
+        }
     }
 ]
